@@ -1,8 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Edmon Huang
+## [Assignment Lab04]
+## [Submission date: 10/02/24]
 ## Worked with/sources 
-* example
+* stackoverflow
 * example
 * example
 * example
